@@ -69,7 +69,7 @@ user_groups:
 - Visitors
 ---
 
-If you don't know me, I'm a french researcher currently working in the Technical University of Delft in the Netherlands (at [Steele Lab](https://steelelab.tudelft.nl/)).
+I'm a french researcher currently working in the Technical University of Delft in the Netherlands (at [Steele Lab](https://steelelab.tudelft.nl/)).
 
 This is a place to share stuff that doesn't fit in the mold of scientific publications.
 
