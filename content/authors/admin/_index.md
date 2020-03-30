@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Quantum physicist
+# role: Quantum physicist
 
 # Organizations/Affiliations
 # organizations:
@@ -74,6 +74,6 @@ I'm a french researcher currently working in the Technical University of Delft i
 This is a place to share stuff that doesn't fit in the mold of scientific publications.
 
 You can expect posts about:
- - Physics (gravitating around the field of superconducting circuits)
- - Programming (Python based)
- - Music (DIY tech-y topics)
+ - Physics, mostly quantum mechanics gravitating around the field of superconducting circuits
+ - Programming, Python based
+ - Music, DIY tech-y topics
