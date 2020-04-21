@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Physicist
+role: Quantum physicists at Delft Technical University
 
 # Organizations/Affiliations
 organizations:

@@ -1,5 +1,5 @@
 ---
-title: "LS1"
+title: "LFT"
 authors:
 - admin
 - Robert Ford
@@ -24,9 +24,10 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
+tags: 
 - Source Themes
-featured: false
+
+featured: true
 
 links:
 - name: Custom Link
@@ -43,8 +44,8 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: "center"
   preview_only: false
 
 # Associated Projects (optional).
