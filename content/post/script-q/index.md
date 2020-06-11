@@ -57,7 +57,9 @@ Enter ScriptQ: the Python script queuer
 ScriptQ is a graphical user interface which allows you to queue python scripts.
 After installing it (```pip install scriptq```).
 And launching the program (```python -m scriptq```)
-You can add a scripts to be run in a given order.
+you can add a scripts to be run in a given order.
+
+
 The big advantage is that you can still modify the queued scripts, modify the order in which they should run, or add new scripts, without interrupting the ongoing script.
 Hence solving all the fustrating situations mentionned above.
 
