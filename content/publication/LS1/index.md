@@ -2,7 +2,7 @@
 title: "Convergence of the multimode quantum Rabi model of circuit quantum electrodynamics"
 authors:
 - admin *
-- Adrian Parra-Rodriguez*
+- Adrian Parra-Rodriguez
 - Daniel Bothner
 - Ya. M. Blanter
 - Sal J. Bosman
