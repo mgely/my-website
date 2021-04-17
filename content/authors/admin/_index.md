@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Hi! I'm Mario Gely, a French/British researcher currently working in the Technical University of Delft in the Netherlands (at [Steele Lab](https://steelelab.tudelft.nl/)). This is a place to share stuff that doesn't fit in the mould of scientific publications. You can expect summaries of my papers or posts about physics, mostly about quantum mechanics gravitating around the field of superconducting circuits. But also posts about programming (mostly Python), and some music/DIY/tech projects.
+Currently trapping ions @ Oxford University
